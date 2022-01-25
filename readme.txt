@@ -1,4 +1,4 @@
-=== The Intelligent - A Machine Learning Artificial Intelligent WordPress Plugin===
+=== The Intelligent - A Machine Learning Artificial Intelligent WordPress Plugin ===
 Contributors: exlac, rafiq
 Tags: woocommerce,ecommerce,automation,artificial intelligence,ai,machine learning
 Requires at least: 5.0
@@ -12,7 +12,7 @@ Automate your shop up-sells/cross-sales to increase your sales with the help of 
 
 == Description ==
 
-Sales bost up to 40% without almost no effort!😲
+Sales boost up to 40% without almost no effort!😲
 
 Yes! Amazon has applied this strategy which returns 35% more sales. Let's compare with an electronics shop, a number of your customers are used to buy Laptop, bag and wireless keyboard together. When new customers add Laptops to their basket, The Intelligent suggests them to purchase bag and a wireless keyboard as well.
 
@@ -24,7 +24,7 @@ Many other plugins offer this where you need to decide which products should be 
 
 The AI library analyses all sales of your store behind the scene and processes them to update the AI. So, there will be no performance issue for the analysis.
 
-== How it works ==
+== How it works with WooCommerce shop ==
 
 The machine-learning artificial intelligence analyses all the sales in a smart way, it learns from them, and then it is able to predict the most relevant products to your customers, thus increasing sales. 
 

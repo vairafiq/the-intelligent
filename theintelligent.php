@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: The Intelligent - A Machine Learning AI for Online Shop
+ * Plugin Name: The Intelligent
  * Description: Increase you shop sale with a Machine Learning Algorithm.
  * Version: 1.0
  * Author: Exlac
