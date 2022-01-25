@@ -1,5 +1,5 @@
 === The Intelligent - A Machine Learning Artificial Intelligent WordPress Plugin ===
-Contributors: exlac, rafiq
+Contributors: rafiq91, exlac
 Tags: woocommerce,ecommerce,automation,artificial intelligence,ai,machine learning
 Requires at least: 5.0
 Tested up to: 5.9
