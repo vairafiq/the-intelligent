@@ -1,0 +1,56 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Intelligent - A Machine Learning AI for Online Shop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-04 01:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.2\n"
+"X-Domain: theintelligent"
+
+#. Author of the plugin
+msgid "Exlac"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://exlac.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Increase you shop sale with a Machine Learning Algorithm."
+msgstr ""
+
+#: includes/init.php:177
+msgid ""
+"Meanwhile, start by updating the <a href=\"/wp-admin/admin.php?"
+"page=theintelligent\">Settings</a> to best match your theme style."
+msgstr ""
+
+#: includes/init.php:168
+msgid ""
+"Please install and activate WooCommerce first, then click \"Force Update "
+"AI\" or wait for the next purchase."
+msgstr ""
+
+#: includes/init.php:83
+msgid "Recommended for you"
+msgstr ""
+
+#: includes/init.php:176
+msgid ""
+"Thank you for installing! 🚀 The smart AI has been deployed and it will "
+"process the sales in the background..."
+msgstr ""
+
+#. Name of the plugin
+msgid "The Intelligent - A Machine Learning AI for Online Shop"
+msgstr ""
