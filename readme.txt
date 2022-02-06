@@ -43,7 +43,7 @@ You can show the final recommendation in:
 
 == 🔔🔔🔔 Coming soon... ==
 
-* Integration with most popular soluations
+* Integration with most popular solutions
 
 == Contribute to The Intelligent – Automate WooCommerce Up-Sells and Cross-Sells with Machine Learning AI ==
 
