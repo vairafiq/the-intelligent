@@ -1,6 +1,6 @@
-=== The Intelligent - A Machine Learning Artificial Intelligent WordPress Plugin ===
+=== The Intelligent – Automate WooCommerce Up-Sells and Cross-Sells with Machine Learning AI ===
 Contributors: rafiq91, exlac
-Tags: woocommerce,ecommerce,automation,artificial intelligence,ai,machine learning
+Tags: up sells,cross sells,woocommerce automation,artificial intelligence,machine learning
 Requires at least: 5.0
 Tested up to: 5.9
 Requires PHP: 7.2
@@ -8,7 +8,7 @@ License: GPLv2 or later
 Stable tag: 1.0
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Automate your shop up-sells/cross-sales to increase your sales with the help of Machine Learning AI.
+Automate WooCommerce up-sells/cross-sales to increase your sales with the help of Machine Learning Artificial Intelligence.
 
 == Description ==
 
@@ -43,10 +43,9 @@ You can show the final recommendation in:
 
 == 🔔🔔🔔 Coming soon... ==
 
-* Integration with Easy Digital Downloads
-* Integration with The Events Calendar
+* Integration with most popular soluations
 
-== Contribute to The Intelligent - The best Machine Learning Artificial Intelligent WordPress Plugin ==
+== Contribute to The Intelligent – Automate WooCommerce Up-Sells and Cross-Sells with Machine Learning AI ==
 
 If you want to contribute to the project, you’re most welcome to make it happen. The full source code is available on [GitHub](https://github.com/vairafiq/the-intelligent.git). If you find anything improbable, feel free to shoot a bug report.
 
